@@ -117,4 +117,5 @@ java:
   with-optional-parameters: true
   prefix-model-type: Bing
   with-single-async-method: true
+  with-expanded-parameters: true
 ```

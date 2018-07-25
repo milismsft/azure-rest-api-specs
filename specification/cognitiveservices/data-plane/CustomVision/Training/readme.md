@@ -142,4 +142,5 @@ java:
   output-folder: $(azure-libraries-for-java-folder)/cognitiveservices/data-plane/vision/customvision/training
   with-optional-parameters: true
   with-single-async-method: true
+  with-expanded-parameters: true
 ```

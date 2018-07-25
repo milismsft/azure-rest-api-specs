@@ -123,4 +123,6 @@ java:
   with-optional-parameters: true
   prefix-model-type: Bing
   with-single-async-method: true
+  with-default-group-name: BingAutoSuggestSearch
+  with-expanded-parameters: true
 ```

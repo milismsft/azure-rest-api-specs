@@ -133,6 +133,7 @@ java:
   with-optional-parameters: true
   with-single-async-method: true
   with-default-group-name: ComputerVision
+  with-expanded-parameters: true
 
 directive:
   from: source-file-java

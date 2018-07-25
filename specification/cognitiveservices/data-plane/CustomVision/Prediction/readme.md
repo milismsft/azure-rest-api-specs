@@ -126,4 +126,5 @@ java:
   output-folder: $(azure-libraries-for-java-folder)/cognitiveservices/data-plane/vision/customvision/prediction
   with-optional-parameters: true
   with-single-async-method: true
+  with-expanded-parameters: true
 ```
