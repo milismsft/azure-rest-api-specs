@@ -143,4 +143,5 @@ java:
   with-optional-parameters: true
   with-single-async-method: true
   with-expanded-parameters: true
+  with-default-group-name: Trainings
 ```
